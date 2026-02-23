@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: An
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 01 00 00 00
+# 
+name: Aus
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 08 00 00 00
+# 
+name: Flackern
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 09 00 00 00
+# 
+name: RGB
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 06 00 00 00
+# 
+name: 6h
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 20 00 00 00
+# 
+name: Weiss
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 04 00 00 00
+# 
+name: Rot
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 0E 00 00 00
+# 
+name: Blau
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 02 00 00 00
+# 
+name: Gruen
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 0C 00 00 00
+# 
+name: Orange
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 07 00 00 00
+# 
+name: Gelb
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 0A 00 00 00
+# 
+name: Lila
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 0B 00 00 00
+# 
+name: Heller
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 15 00 00 00
+# 
+name: Dunkler
+type: parsed
+protocol: RC5
+address: 1F 00 00 00
+command: 16 00 00 00
