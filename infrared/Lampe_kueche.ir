@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Aus
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: DC 00 00 00
+# 
+name: Ein
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 82 00 00 00
+# 
+name: Heller
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: CA 00 00 00
+# 
+name: Dunkler
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: D2 00 00 00
+# 
+name: Warm
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: C1 00 00 00
+# 
+name: Kalt
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 99 00 00 00
+# 
+name: Tag
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: CE 00 00 00
+# 
+name: Nacht
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 80 00 00 00
